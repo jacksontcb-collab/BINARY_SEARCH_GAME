@@ -18,6 +18,8 @@ Abstraction
 Algorithm Design
 -Follow repeated steps: find midpoint, guess, update range, repeat until the number is found.
 
+[project flowchart.pdf](https://github.com/user-attachments/files/24043621/project.flowchart.pdf)
+
 
 
 ## Steps to Run
