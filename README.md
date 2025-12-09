@@ -6,6 +6,19 @@ https://drive.google.com/file/d/10x3eneipjeQuLqi3RPM4MDyE1l7eolEv/view?usp=shari
 ## Problem Breakdown & Computational Thinking (You can add a flowchart and write the
 four pillars of computational thinking briefly in bullets)
 
+Decomposition
+- Split the game into steps: choose a range, pick a midpoint, compare, then adjust the range.
+
+Pattern Recognition
+-Notice that each guess cuts the search space in half.
+
+Abstraction
+-Ignore exact values and focus only on whether the target is higher, lower, or equal to the midpoint.
+
+Algorithm Design
+-Follow repeated steps: find midpoint, guess, update range, repeat until the number is found.
+
+
 
 ## Steps to Run
 Click the hugging face link and open the page
